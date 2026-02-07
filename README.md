@@ -1,4 +1,4 @@
-# 🤖 AI Agents Bootcamp
+# AI Agents Bootcamp
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/)
@@ -10,7 +10,7 @@ From "what is an agent?" to production-ready multi-agent systems—with working 
 
 ---
 
-## 🎯 What You'll Build
+## What You'll Build
 
 | Day | Project | Skills |
 |-----|---------|--------|
@@ -20,7 +20,7 @@ From "what is an agent?" to production-ready multi-agent systems—with working 
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Local Setup (Recommended)
 
@@ -54,7 +54,7 @@ Open any notebook directly in Colab:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ai-agents-bootcamp/
@@ -81,7 +81,7 @@ ai-agents-bootcamp/
 
 ---
 
-## 🔑 API Keys Required
+## API Keys Required
 
 ### OpenAI API Key (Required)
 1. Go to [platform.openai.com](https://platform.openai.com)
@@ -96,7 +96,7 @@ ai-agents-bootcamp/
 
 ---
 
-## 📚 The 5 Building Blocks of AI Agents
+## The 5 Building Blocks of AI Agents
 
 Every agent in this repo demonstrates these core concepts:
 
@@ -105,18 +105,18 @@ Every agent in this repo demonstrates these core concepts:
 │                     AI AGENT ARCHITECTURE                    │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│   1. 🎯 GOAL        → What the agent is trying to achieve   │
-│   2. 🧠 REASONING   → LLM that plans and decides            │
-│   3. 🔧 TOOLS       → Capabilities (search, read, execute)  │
-│   4. 💾 MEMORY      → Context and history storage           │
-│   5. 🔄 FEEDBACK    → Self-evaluation and improvement       │
+│   1. GOAL        → What the agent is trying to achieve   │
+│   2. REASONING   → LLM that plans and decides            │
+│   3. TOOLS       → Capabilities (search, read, execute)  │
+│   4. MEMORY      → Context and history storage           │
+│   5. FEEDBACK    → Self-evaluation and improvement       │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -128,7 +128,7 @@ Every agent in this repo demonstrates these core concepts:
 
 ---
 
-## 📖 Learning Path
+## Learning Path
 
 ### Day 1: Foundations
 **Goal:** Understand what agents are and build your first one.
@@ -167,7 +167,7 @@ python src/03_langgraph_bot.py
 
 ---
 
-## 💡 Example Output
+##  Example Output
 
 Running the first agent:
 
@@ -175,14 +175,14 @@ Running the first agent:
 $ python src/01_first_agent.py
 Enter a company to research (or press Enter for 'Stripe'): Anthropic
 
-🤖 Agent activated: Researching Anthropic...
+ Agent activated: Researching Anthropic...
 --------------------------------------------------
-📊 Gathering company information...
-✅ Validating research completeness...
-✅ Research validated as complete
+ Gathering company information...
+ Validating research completeness...
+ Research validated as complete
 
 ============================================================
-📋 RESEARCH REPORT: Anthropic
+ RESEARCH REPORT: Anthropic
 ============================================================
 ## Company Overview
 - Founded: 2021 by former OpenAI researchers
@@ -190,12 +190,12 @@ Enter a company to research (or press Enter for 'Stripe'): Anthropic
 - Mission: AI safety research and building reliable AI systems
 ...
 
-💾 Report saved to: outputs/anthropic_research.txt
+ Report saved to: outputs/anthropic_research.txt
 ```
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Found a bug? Have an improvement? Contributions welcome!
 
@@ -207,7 +207,7 @@ Found a bug? Have an improvement? Contributions welcome!
 
 ---
 
-## 📬 Questions?
+##  Questions?
 
 - **Newsletter:** [Standout Systems on Substack](https://teodoracoach.substack.com/)
 - **Coaching:** [teodora.coach](https://teodora.coach/)
@@ -215,7 +215,7 @@ Found a bug? Have an improvement? Contributions welcome!
 
 ---
 
-## 📄 License
+##  License
 
 MIT License - feel free to use this code for learning and projects.
 
